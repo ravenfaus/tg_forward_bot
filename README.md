@@ -8,4 +8,4 @@ Bot, which send all messages to admin, and to another direction with reply.
 1. Edit config_sample.py and rename to config.py
 2. Use webhook.py or polling.py to start bot
 ### Any questiongs?
-[Write to me](t.me/RavenFaus)
+[Write to me](https://t.me/RavenFaus)
